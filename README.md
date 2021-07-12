@@ -49,6 +49,8 @@ npm run dev
 - [ ] Cloudwatch로 모니터링
 
 1. 각 서버내 로깅 경로를 알려주세요
+- nginx (limdingdong-EC2-reverse-proxy)
+   - /var/log/nginx
 
 2. Cloudwatch 대시보드 URL을 알려주세요
 
